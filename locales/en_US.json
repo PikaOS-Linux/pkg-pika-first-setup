@@ -21,7 +21,7 @@
     "first_setup_update_skip_button_label": "Skip Updates",
     "system_update_dialog_heading": "System Update Log",
     "system_update_dialog_ok_label": "Ok",
-    "internet_network_disabled": "Disabled.. Network setup was skipped",
+    "internet_network_disabled": "Disabled... Network setup was skipped",
     "system_update_dialog_success_true": "Update Completed Successfully!",
     "system_update_dialog_success_false": "Update Failed!\nPlease try again.",
     "first_setup_user_box_text_title": "User setup",
