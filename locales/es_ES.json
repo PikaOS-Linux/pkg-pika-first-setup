@@ -21,7 +21,7 @@
     "first_setup_update_skip_button_label": "Omitir actualizaciones",
     "system_update_dialog_heading": "Registro de la actualización",
     "system_update_dialog_ok_label": "Entendido",
-    "internet_network_disabled": "Deshabilitado: La configuración de redes fue omitida",
+    "internet_network_disabled": "Deshabilitado... Se omitió la configuración de la red",
     "system_update_dialog_success_true": "¡Actualización completada exitosamente!",
     "system_update_dialog_success_false": "¡La actualización falló! Por favor, inténtelo de nuevo.",
     "first_setup_user_box_text_title": "Configuración de usuario",
